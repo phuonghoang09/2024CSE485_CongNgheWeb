@@ -1,0 +1,70 @@
+Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?
+A. TextView
+B. Button
+C. Service
+D. ImageView
+ANSWER: C
+
+Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang?
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+ANSWER: B
+
+Intent trong Android được sử dụng để làm gì?
+A. Hiển thị thông báo cho người dùng.
+B. Lưu trữ dữ liệu.
+C. Khởi chạy Activity.
+D. Xử lý sự kiện chạm.
+ANSWER: C
+
+Vòng đời của một Activity bắt đầu bằng phương thức nào?
+A. onStart()
+B. onResume()
+C. onCreate()
+D. onPause()
+ANSWER: C
+
+Để xử lý sự kiện click chuột cho một Button, bạn cần sử dụng phương thức nào?
+A. onClick()
+B. onTouch()
+C. onLongClick()
+D. onFocusChange()
+ANSWER: A
+
+Kiểu dữ liệu nào sau đây được sử dụng để lưu trữ giá trị đúng hoặc sai?
+A. int
+B. float
+C. String
+D. boolean
+ANSWER: D
+
+SharedPreferences trong Android được sử dụng để làm gì?
+A. Lưu trữ dữ liệu có cấu trúc.
+B. Truy cập cơ sở dữ liệu SQLite.
+C. Lưu trữ dữ liệu dạng key-value.
+D. Gửi dữ liệu qua mạng.
+ANSWER: C
+
+Toast trong Android được sử dụng để làm gì?
+A. Hiển thị một hộp thoại.
+B. Hiển thị một thông báo ngắn gọn cho người dùng.
+C. Phát nhạc.
+D. Chụp ảnh màn hình.
+ANSWER: B
+
+Để tạo một ứng dụng Android, bạn cần sử dụng ngôn ngữ lập trình nào?
+A. C++
+B. Python
+C. Java
+D. Kotlin
+ANSWER: C, D
+
+Adapter trong Android được sử dụng để làm gì?
+A. Kết nối dữ liệu với ListView hoặc RecyclerView.
+B. Tạo hiệu ứng động.
+C. Xử lý sự kiện cảm ứng.
+D. Lưu trữ dữ liệu.
+ANSWER: A
+
