@@ -1,0 +1,12 @@
+.card-img-container {
+  height: 200px; /* Chiều cao cố định của ảnh */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Ẩn phần ảnh thừa */
+}
+.card-img-container img {
+  width: 100%; /* Đảm bảo ảnh rộng đủ */
+  height: 100%; /* Đảm bảo ảnh cao đủ */
+  object-fit: cover; /* Giúp ảnh vừa khung mà không bị méo */
+}
